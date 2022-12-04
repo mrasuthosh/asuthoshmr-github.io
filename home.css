@@ -1,0 +1,51 @@
+
+/* body{
+    background-color: yellowgreen;
+} */
+
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+div h4 u{
+    color: #0f5132;
+}
+
+div p u h4{
+    color: #0f5132;
+}
+
+
+ul li a:hover{
+    color: black;
+    background-color: whitesmoke;
+}
+
+.text{
+    font-family: 'Zen Dots', cursive;
+}
+
+h4{
+    font-family: 'Kenia', cursive;
+}
+
+h3{
+    font-family: 'Kenia', cursive;
+}
+
+.prj{
+    font-family: 'Zen Dots', cursive;
+}
+
+div p u h4 a{
+    text-decoration: none;
+}
+
+div p{
+    font-family: 'Inconsolata', monospace;
+}
+
+div small{
+    font-family: 'Indie Flower', cursive;
+}
